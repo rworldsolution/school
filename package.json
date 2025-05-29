@@ -11,8 +11,7 @@
     "preview": "vite preview",
      "dev": "vite",
   "build": "vite build",
-  "predeploy": "vite build",
-  "deploy": "gh-pages -d dist"
+  "predeploy": "vite build"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
